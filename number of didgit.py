@@ -1,6 +1,6 @@
-count = 0
-number = int()
-while (number > 0):
-number = number//10
-count = count + 1
-print ("Total number of digits : ",count)
+Number = int(input("Please Enter any Number: "))
+Count = 0
+while(Number > 0):
+Number = Number // 10
+Count = Count + 1
+print("\n Number of Digits in a Given Number = %d" %Count)
