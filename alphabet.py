@@ -1,6 +1,5 @@
-string = 'Ayush'
-print(string.isalpha()) 
-string = 'Ayush0212'
-print(string.isalpha()) 
-string = 'Ayush Saxena'
-print( string.isalpha()) 
+ch = input("Enter a character: ")
+if():
+print(ch, "is an Alphabet")
+else:
+print(ch, "is not an Alphabet")
