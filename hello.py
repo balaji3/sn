@@ -1,4 +1,4 @@
 n=int(input())
-a="Hellow"
+a="Hello"
 for x in range(n):
     print(a)
